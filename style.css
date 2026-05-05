@@ -95,7 +95,7 @@ section {
 .pos-container {
     height: 200px;
     background-color: #f9f9f9;
-    position: relative; /* Acts as the anchor */
+    position: relative; 
     border: 1px dashed #ccc;
 }
 
